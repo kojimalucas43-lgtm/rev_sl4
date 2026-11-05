@@ -9,4 +9,3 @@
 # 5- bang do commit
 
 # 6- git push
-https://www.w3schools.com/
